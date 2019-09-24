@@ -1,0 +1,7 @@
+C:\Users\lance\source\repos\CsharpGame\bin\Debug\CsharpGame.exe.config
+C:\Users\lance\source\repos\CsharpGame\bin\Debug\CsharpGame.exe
+C:\Users\lance\source\repos\CsharpGame\bin\Debug\CsharpGame.pdb
+C:\Users\lance\source\repos\CsharpGame\obj\Debug\CsharpGame.csprojAssemblyReference.cache
+C:\Users\lance\source\repos\CsharpGame\obj\Debug\CsharpGame.csproj.CoreCompileInputs.cache
+C:\Users\lance\source\repos\CsharpGame\obj\Debug\CsharpGame.exe
+C:\Users\lance\source\repos\CsharpGame\obj\Debug\CsharpGame.pdb

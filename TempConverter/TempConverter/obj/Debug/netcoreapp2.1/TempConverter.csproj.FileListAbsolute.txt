@@ -1,0 +1,11 @@
+C:\Users\lance\Desktop\Dev\cs\TempConverter\TempConverter\bin\Debug\netcoreapp2.1\TempConverter.deps.json
+C:\Users\lance\Desktop\Dev\cs\TempConverter\TempConverter\bin\Debug\netcoreapp2.1\TempConverter.runtimeconfig.json
+C:\Users\lance\Desktop\Dev\cs\TempConverter\TempConverter\bin\Debug\netcoreapp2.1\TempConverter.runtimeconfig.dev.json
+C:\Users\lance\Desktop\Dev\cs\TempConverter\TempConverter\bin\Debug\netcoreapp2.1\TempConverter.dll
+C:\Users\lance\Desktop\Dev\cs\TempConverter\TempConverter\bin\Debug\netcoreapp2.1\TempConverter.pdb
+C:\Users\lance\Desktop\Dev\cs\TempConverter\TempConverter\obj\Debug\netcoreapp2.1\TempConverter.csprojAssemblyReference.cache
+C:\Users\lance\Desktop\Dev\cs\TempConverter\TempConverter\obj\Debug\netcoreapp2.1\TempConverter.csproj.CoreCompileInputs.cache
+C:\Users\lance\Desktop\Dev\cs\TempConverter\TempConverter\obj\Debug\netcoreapp2.1\TempConverter.AssemblyInfoInputs.cache
+C:\Users\lance\Desktop\Dev\cs\TempConverter\TempConverter\obj\Debug\netcoreapp2.1\TempConverter.AssemblyInfo.cs
+C:\Users\lance\Desktop\Dev\cs\TempConverter\TempConverter\obj\Debug\netcoreapp2.1\TempConverter.dll
+C:\Users\lance\Desktop\Dev\cs\TempConverter\TempConverter\obj\Debug\netcoreapp2.1\TempConverter.pdb
