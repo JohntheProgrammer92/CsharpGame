@@ -1,7 +1,0 @@
-C:\Users\lance\source\repos\Player\bin\Debug\Player.exe.config
-C:\Users\lance\source\repos\Player\bin\Debug\Player.exe
-C:\Users\lance\source\repos\Player\bin\Debug\Player.pdb
-C:\Users\lance\source\repos\Player\obj\Debug\Player.csprojAssemblyReference.cache
-C:\Users\lance\source\repos\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
-C:\Users\lance\source\repos\Player\obj\Debug\Player.exe
-C:\Users\lance\source\repos\Player\obj\Debug\Player.pdb
