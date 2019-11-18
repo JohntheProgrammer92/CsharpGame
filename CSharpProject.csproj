@@ -4,14 +4,13 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B42338A8-8173-4452-BAFB-A711BFCF90A8}</ProjectGuid>
+    <ProjectGuid>{5D663AD2-D6E2-43BF-A4BA-39383338364B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CsharpGame</RootNamespace>
-    <AssemblyName>CsharpGame</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <RootNamespace>ClocktowersCurse</RootNamespace>
+    <AssemblyName>ClocktowersCurse</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -44,10 +43,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Board.cs" />
+    <Compile Include="GameCharacter.cs" />
+    <Compile Include="IActor.cs" />
+    <Compile Include="Monster.cs" />
+    <Compile Include="Player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StaticRandom.cs" />
     <Compile Include="Tile.cs" />
+    <Compile Include="Utils.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

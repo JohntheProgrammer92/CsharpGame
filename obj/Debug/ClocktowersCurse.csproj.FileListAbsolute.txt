@@ -1,0 +1,19 @@
+C:\Users\brandon.walker\documents\visual studio 2017\Projects\MonsterMovement\MonsterMovement\bin\Debug\ClocktowersCurse.exe.config
+C:\Users\brandon.walker\documents\visual studio 2017\Projects\MonsterMovement\MonsterMovement\bin\Debug\ClocktowersCurse.exe
+C:\Users\brandon.walker\documents\visual studio 2017\Projects\MonsterMovement\MonsterMovement\bin\Debug\ClocktowersCurse.pdb
+C:\Users\brandon.walker\documents\visual studio 2017\Projects\MonsterMovement\MonsterMovement\obj\Debug\ClocktowersCurse.exe
+C:\Users\brandon.walker\documents\visual studio 2017\Projects\MonsterMovement\MonsterMovement\obj\Debug\ClocktowersCurse.pdb
+C:\Users\brandon.walker\documents\visual studio 2017\Projects\MonsterMovement\MonsterMovement\obj\Debug\ClocktowersCurse.csprojResolveAssemblyReference.cache
+C:\Users\brandon.walker\Google Drive\Work\Classes\C# programming\Class Examples\MonsterMovement\MonsterMovement\bin\Debug\ClocktowersCurse.exe.config
+C:\Users\brandon.walker\Google Drive\Work\Classes\C# programming\Class Examples\MonsterMovement\MonsterMovement\bin\Debug\ClocktowersCurse.exe
+C:\Users\brandon.walker\Google Drive\Work\Classes\C# programming\Class Examples\MonsterMovement\MonsterMovement\bin\Debug\ClocktowersCurse.pdb
+C:\Users\brandon.walker\Google Drive\Work\Classes\C# programming\Class Examples\MonsterMovement\MonsterMovement\obj\Debug\ClocktowersCurse.csprojResolveAssemblyReference.cache
+C:\Users\brandon.walker\Google Drive\Work\Classes\C# programming\Class Examples\MonsterMovement\MonsterMovement\obj\Debug\ClocktowersCurse.exe
+C:\Users\brandon.walker\Google Drive\Work\Classes\C# programming\Class Examples\MonsterMovement\MonsterMovement\obj\Debug\ClocktowersCurse.pdb
+C:\temp\MonsterMovement\MonsterMovement\obj\Debug\ClocktowersCurse.csprojAssemblyReference.cache
+C:\temp\MonsterMovement\MonsterMovement\obj\Debug\ClocktowersCurse.csproj.CoreCompileInputs.cache
+C:\temp\MonsterMovement\MonsterMovement\obj\Debug\ClocktowersCurse.exe
+C:\temp\MonsterMovement\MonsterMovement\obj\Debug\ClocktowersCurse.pdb
+C:\temp\MonsterMovement\MonsterMovement\bin\Debug\ClocktowersCurse.exe.config
+C:\temp\MonsterMovement\MonsterMovement\bin\Debug\ClocktowersCurse.exe
+C:\temp\MonsterMovement\MonsterMovement\bin\Debug\ClocktowersCurse.pdb

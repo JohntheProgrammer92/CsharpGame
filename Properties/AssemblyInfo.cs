@@ -1,15 +1,16 @@
 ﻿using System.Reflection;
+using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CsharpGame")]
+[assembly: AssemblyTitle("ClocktowersCurse")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CsharpGame")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyProduct("ClocktowersCurse")]
+[assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -19,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b42338a8-8173-4452-bafb-a711bfcf90a8")]
+[assembly: Guid("5d663ad2-d6e2-43bf-a4ba-39383338364b")]
 
 // Version information for an assembly consists of the following four values:
 //
