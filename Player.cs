@@ -53,6 +53,7 @@ namespace CharacterGen
         public void Interact(Board b, IActor a)
         {
             Utils.Message("You attack the "+ a.name + " for " + attack + " damage!");
+            Console.ReadKey();
             a.health -= attack - a.defense;
         }        
 
@@ -71,38 +72,26 @@ namespace CharacterGen
                 int newRow = row;
                 int newCol = col;
                 //move if not wall or occupied                
-                if (k.Key == ConsoleKey.NumPad1)
-                {
-                    newRow += 1; newCol -= 1;
-                }
-                else if (k.Key == ConsoleKey.NumPad2)
+                
+                if (k.Key == ConsoleKey.DownArrow)
                 {                   
                     newRow += 1;                   
                 }
-                else if (k.Key == ConsoleKey.NumPad3)
-                {
-                    newRow += 1; newCol += 1;
-                }
-                else if (k.Key == ConsoleKey.NumPad4)
+                
+                else if (k.Key == ConsoleKey.LeftArrow)
                 {             
                     newCol -= 1;                  
                 }
-                else if (k.Key == ConsoleKey.NumPad6)
+                else if (k.Key == ConsoleKey.RightArrow)
                 {                   
                     newCol += 1;                   
                 }
-                else if (k.Key == ConsoleKey.NumPad7)
-                {
-                    newRow -= 1; newCol -= 1;
-                }
-                else if (k.Key == ConsoleKey.NumPad8)
+                
+                else if (k.Key == ConsoleKey.UpArrow)
                 {
                     newRow -= 1;
                 }
-                else if (k.Key == ConsoleKey.NumPad9)
-                {
-                    newRow -= 1; newCol += 1;
-                }
+                
                 else //no valid command entered
                 {
                     continue; 

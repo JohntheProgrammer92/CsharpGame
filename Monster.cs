@@ -55,8 +55,10 @@ namespace CharacterGen
 
         public virtual void Interact(Board b, IActor a)
         {
-            /*ASK Brandon about the messages being printed*/
+            
             Utils.Message(name + " slobbers on "+ a.name, color);
+            Console.ReadKey();
+
         }
 
         //Default move... to move randomly
@@ -80,6 +82,8 @@ namespace CharacterGen
             {
                 Interact(b, b.board[row - 1, col].occupied);
             }
+            /////////////////////////////////////////////////////////////////
+
             if (x == 1 && b.board[row + 1, col].symbol != "#" && b.board[row + 1, col].occupied == null)
             {
                 if (row < b.height - 1)
@@ -91,6 +95,8 @@ namespace CharacterGen
             {
                 Interact(b, b.board[row + 1, col].occupied);
             }
+            /////////////////////////////////////////////////////////////////////
+
             if (x == 2 && b.board[row, col-1].symbol != "#" && b.board[row, col - 1].occupied == null)
             {
                 if (col > 0)
@@ -102,6 +108,8 @@ namespace CharacterGen
             {
                 Interact(b, b.board[row, col - 1].occupied);
             }
+            /////////////////////////////////////////////////////////////////////
+
             if (x == 3 && b.board[row, col+1].symbol != "#" && b.board[row, col + 1].occupied == null)
             {
                 if (col < b.width - 1)

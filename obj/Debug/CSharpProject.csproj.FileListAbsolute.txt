@@ -12,3 +12,10 @@ C:\Users\lance\Desktop\Csharp game\obj\Debug\CSharpProject.csprojAssemblyReferen
 C:\Users\lance\Desktop\Csharp game\obj\Debug\CSharpProject.csproj.CoreCompileInputs.cache
 C:\Users\lance\Desktop\Csharp game\obj\Debug\ClocktowersCurse.exe
 C:\Users\lance\Desktop\Csharp game\obj\Debug\ClocktowersCurse.pdb
+C:\Users\lance\Desktop\Class\csharp\CsharpGame\bin\Debug\ClocktowersCurse.exe.config
+C:\Users\lance\Desktop\Class\csharp\CsharpGame\bin\Debug\ClocktowersCurse.exe
+C:\Users\lance\Desktop\Class\csharp\CsharpGame\bin\Debug\ClocktowersCurse.pdb
+C:\Users\lance\Desktop\Class\csharp\CsharpGame\obj\Debug\CSharpProject.csprojAssemblyReference.cache
+C:\Users\lance\Desktop\Class\csharp\CsharpGame\obj\Debug\CSharpProject.csproj.CoreCompileInputs.cache
+C:\Users\lance\Desktop\Class\csharp\CsharpGame\obj\Debug\ClocktowersCurse.exe
+C:\Users\lance\Desktop\Class\csharp\CsharpGame\obj\Debug\ClocktowersCurse.pdb

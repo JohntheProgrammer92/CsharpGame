@@ -20,6 +20,8 @@ namespace CSharpProject
             Console.SetWindowSize(100, 40);
             Console.CursorVisible = false;
 
+            
+
             player = new Player(100, 5, 1, "John");
             NewLevel(1); // Create level 1
 
